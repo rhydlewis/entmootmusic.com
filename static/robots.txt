@@ -1,0 +1,3 @@
+User-agent: *
+
+sitemap: https://entmootmusic.com/sitemap-index.xml
